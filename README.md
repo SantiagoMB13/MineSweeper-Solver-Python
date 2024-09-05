@@ -23,7 +23,7 @@ This project implements an automated Minesweeper solver using computer vision an
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/minesweeper-solver.git
+   git clone https://github.com/SantiagoMB13/MineSweeper-Solver-Python.git
    ```
 
 2. Install the required dependencies:
@@ -54,7 +54,3 @@ This project implements an automated Minesweeper solver using computer vision an
 
 - David Daniel Henriquez Leal
 - Santiago Andres Mercado Barandica
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
